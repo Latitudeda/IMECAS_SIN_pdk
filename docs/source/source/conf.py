@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'IMECAS SIN pdk documentation'
+copyright = '2023, Latitudeda.com'
+author = 'latitudeda.com'
 
 release = '0.1'
 version = '0.1.0'
@@ -31,5 +31,14 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
+latex_elements = {
+  'extraclassoptions': 'openany,oneside'
+}
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+html_theme_options = {
+    'navigation_depth': 5,
+    'collapse_navigation': False,
+}
