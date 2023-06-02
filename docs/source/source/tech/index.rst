@@ -1,7 +1,7 @@
 Technology setting
 ========================
 
-The technology in IMECAS pdk holds a number of common configuration files dealing with process and layout display, such as:
+The technology in IMECAS SiN pdk holds a number of common configuration files dealing with process and layout display, such as:
 
 
 

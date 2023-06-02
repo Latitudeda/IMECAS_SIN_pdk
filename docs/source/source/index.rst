@@ -1,4 +1,4 @@
-IMECAS documentation
+IMECAS SiN documentation
 ====================================
 
 .. toctree::
